@@ -1,0 +1,13 @@
+pwd
+clear
+whoami
+gcc -v
+exit
+vim
+tmux
+exit
+cat /etc/passwd-
+clear
+exit
+tmux
+exit
